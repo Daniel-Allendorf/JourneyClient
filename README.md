@@ -1,5 +1,6 @@
 # JourneyClient
-JourneyClient is a custom, made-from-scratch game client.
+JourneyClient is a custom, made-from-scratch game client for the MMORPG 'MapleStory'.
+The project is no longer under active development but an active fork can be found [here](https://github.com/ryantpayton/MapleStory-Client). 
 
 # Supported versions
 The client is currently compatible with version 83 servers.
